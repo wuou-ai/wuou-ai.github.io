@@ -6,8 +6,7 @@ permalink: /publication/2024-10-01-data-optimization-dl
 excerpt: 'This paper provides a comprehensive survey of data optimization techniques for deep learning.'
 date: 2024-10-01
 venue: 'TKDE'
-slidesurl: 'http://academicpages.github.io/files/slides-data-opt-dl.pdf'
-paperurl: 'http://academicpages.github.io/files/paper-data-opt-dl.pdf'
+paperurl: 'http://wuou-ai.github.io/files/pdf1.pdf'
 citation: 'Wu, O., & Yao, R. (Under second review). "Data Optimization for Deep Learning: A Survey." IEEE Transactions on Knowledge and Data Engineering.'
 ---
 

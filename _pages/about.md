@@ -35,8 +35,4 @@ I apply deep learning theories and algorithms to solve real-world problems in so
 
 These technologies have been successfully implemented in over ten large and medium-sized enterprises.
 
-A Data-Driven Personal Website
-======
-This website is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io), a ready-to-fork GitHub Pages template for academic personal websites. It separates the content of the site (written in markdown files) from its design (written in HTML, CSS, and YAML), allowing for easy updates and customization. Each time new content is added, static HTML pages are automatically generated and hosted on GitHub's servers for free.  
 
-Whether you're interested in my research, teaching, or academic service, I hope this website provides easy access to my work and contributions.

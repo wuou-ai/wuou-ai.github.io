@@ -2,7 +2,7 @@
 title: "Data Optimization for Deep Learning: A Survey"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-10-01-data-optimization-dl
+permalink: /publication/01-data-optimization-dl
 excerpt: 'This paper provides a comprehensive survey of data optimization techniques for deep learning.'
 date: 2024-10-01
 venue: 'TKDE'

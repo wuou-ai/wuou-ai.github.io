@@ -11,54 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Pattern Recognition and Intelligent Systems (while employed), CASIA (Institute of Automation, Chinese Academy of Sciences), 2012  
+* M.S. in Pattern Recognition, CASIA (Institute of Automation, Chinese Academy of Sciences), 2006  
+* B.S. in Electrical Engineering, Xi’an Jiaotong University, 2003  
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 10/2024–Present: Professor  
+  * School of Intelligence, Hangzhou Institute for Advanced Study, UCAS (University of Chinese Academy of Sciences)  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 03/2024–09/2024: Visiting Researcher  
+  * Department of Mathematics, Hong Kong Baptist University  
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 04/2017–09/2024: Professor  
+  * National Center for Applied Mathematics, Tianjin University / School of Mathematics  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+* 03/2007–03/2017: Assistant Researcher / Associate Researcher  
+  * National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
+
+    
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Undergraduate Core Course: Introduction to Data Science  
+* Undergraduate Elective Course: Deep Learning  
+
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* (Senior) Program Committee Member for CCF A/B/C Conferences  
+* Reviewer for Top AI Journals  
+* Founding Head of the Data Science Program, School of Mathematics, Tianjin University

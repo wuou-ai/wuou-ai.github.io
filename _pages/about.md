@@ -33,23 +33,17 @@ I apply deep learning theories and methods to real-world challenges in both soci
 
 These methods have been successfully deployed in collaborations with over ten large and medium-sized enterprises, demonstrating the practical impact of my research.
 
-Teaching and Mentorship
-======
-I am committed to cultivating the next generation of researchers and professionals in artificial intelligence and data science. I teach both core and elective courses at the undergraduate level, including:  
-- **Introduction to Data Science** (Core course)  
-- **Deep Learning** (Elective course)  
 
-Additionally, I actively mentor students and young researchers, guiding them in their pursuit of knowledge and innovation in AI and machine learning.
+## Recruitment Opportunities
 
-Service and Leadership
-======
-My contributions to the academic community include:  
-- Serving as a (Senior) Program Committee Member for **CCF A/B/C Conferences**  
-- Reviewing for top-tier AI journals  
-- Founding and leading the **Data Science Program** in the School of Mathematics at Tianjin University  
+### Postdoctoral Researchers  
+We are looking to recruit **1–2 postdoctoral researchers** in the near future. Competitive benefits are provided, including a **living/housing allowance of 400,000–1,400,000 RMB** for those who choose to stay and work in Hangzhou after their postdoc (subject to relevant policies).  
 
-Through these efforts, I aim to advance the field of data-centric AI and contribute to the broader academic and industrial communities.
+### Graduate Students  
+- **Ph.D. Students**: Admission depends on annual quota allocation.  
+- **Master’s Students**: Approximately **2 positions** are available each year.  
 
-Contact
-======
-For more information about my research, teaching, or collaborations, please feel free to reach out.
+### Internships  
+We welcome graduate students with strong programming skills and a keen interest in **AI data generation and security** to join us for internships lasting **6 months or longer**.  
+
+For inquiries, please contact: [wuou@ucas.ac.cn](mailto:wuou@ucas.ac.cn)  

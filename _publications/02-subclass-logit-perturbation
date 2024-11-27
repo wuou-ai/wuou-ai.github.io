@@ -2,7 +2,7 @@
 title: "Subclass-wise Logit Perturbation for Multi-label Learning"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-10-01-subclass-logit-perturbation
+permalink: /publication/02-subclass-logit-perturbation
 excerpt: 'This paper proposes a novel subclass-wise logit perturbation method for multi-label learning.'
 date: 2024-10-01
 venue: 'TKDD'

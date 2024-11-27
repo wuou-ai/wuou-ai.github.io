@@ -6,8 +6,7 @@ permalink: /publication/2024-10-01-subclass-logit-perturbation
 excerpt: 'This paper proposes a novel subclass-wise logit perturbation method for multi-label learning.'
 date: 2024-10-01
 venue: 'TKDD'
-slidesurl: 'http://academicpages.github.io/files/slides-subclass-logit.pdf'
-paperurl: 'http://academicpages.github.io/files/paper-subclass-logit.pdf'
+paperurl: 'http://wuou-ai.github.io/files/pdf1.pdf'
 citation: 'Zhu, Y., Wu, O.*, & Su, F. (Under third review). "Subclass-wise Logit Perturbation for Multi-label Learning." ACM Transactions on Knowledge Discovery from Data.'
 ---
 

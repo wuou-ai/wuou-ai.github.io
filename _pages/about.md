@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "Research in Data-Centric Artificial Intelligence"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome
-======
-Welcome to my academic homepage. My work focuses on foundational theories, novel algorithms, and practical applications in **Data-Centric Artificial Intelligence (AI)**. I am dedicated to advancing research in data optimization, data synthesis, and AI security, while also exploring their applications in real-world scenarios such as intelligent analysis of text and image data.
 
 Research Overview
 ======
